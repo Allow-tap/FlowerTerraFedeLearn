@@ -23,7 +23,6 @@ To launch the server and clients, first set the correct environment variables us
 ```shell
 source <project_name>_openrc.sh
 ```
-similarly to what was done in assignment 2.
 
 Also create `secret.tfvars` in the project root, and add the line below to it, replacing `YOUR_KEY_PAIR_NAME` with the
 name of your OpenStack key pair.
