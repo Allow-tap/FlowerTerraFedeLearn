@@ -6,7 +6,7 @@ All the commands in the instructions should be run on your local machine.
 Clone the repository and move into the project directory
 ```shell
 git clone https://github.com/Allow-tap/FlowerTerraFedeLearn.git
-cd FlowerTerraFedeLearnS
+cd FlowerTerraFedeLearn
 ```
 
 Install Terraform (based on instructions in the
